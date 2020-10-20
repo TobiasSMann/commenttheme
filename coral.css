@@ -1,0 +1,5 @@
+:root {
+--palette-primary-500: #ffcf1b;
+--font-family-primary: var(--font-family-secondary);
+--palette-background-body: #f1f1f2;
+}
